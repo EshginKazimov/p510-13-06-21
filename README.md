@@ -27,3 +27,7 @@ https://www.w3schools.com/sql/default.asp - bu sehifede soldaki sidebar-da olan 
 
 ### Yeni tapshiriq:
 
+- Shop Database yaratmaq
+- Category ve Product table-lari yaratmaq. Columnlarini ozunuz duzgun formada fikirleshib, One to many relation qurun.
+- Butun productlarin categoriyalarla birlikde data-sini gostermek View ile
+- Procedure yaratmaq hansindaki qiymetden asili olaraq Productlari gostersin
